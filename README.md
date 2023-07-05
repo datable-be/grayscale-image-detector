@@ -1,2 +1,2 @@
 # grayscale-image-detector
-detects if an image is in black and white, grayscale or very low saturated colours
+Python function that takes an image file path as input and determines whether the image is quasi-monochrome with an RGB channel or a color image containing a black and white photo.
